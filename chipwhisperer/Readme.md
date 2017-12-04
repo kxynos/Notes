@@ -1,3 +1,5 @@
+Note: Check readme-dev.md for develop branch
+
 # Install Chipwhisperer software from github on Ubuntu
 Uses a fresh Ubuntu system (tested on 16.04.1 LTE) and based on install instructions from : https://wiki.newae.com/Installing_ChipWhisperer
 
