@@ -61,7 +61,7 @@ for c in trylist:
 ```
 
 
-# All characters
+## All characters
 
 I had issues with the start point of 203 points that I identified in the first step. Keep in mind that when an attempt is made the trace is slightly different compared to when it completes and finds the password correctly. The processing trace is different. 
 
