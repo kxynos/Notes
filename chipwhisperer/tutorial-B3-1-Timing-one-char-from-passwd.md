@@ -3,6 +3,7 @@
 
 Test script for chipwhisperer tutorial : https://wiki.newae.com/Tutorial_B3-1_Timing_Analysis_with_Power_for_Password_Bypass
 
+I found a trace that worked for me around 203 units. Unfortunately this is not good enough for full password discovery.
 
 ```
 """Setup script for CWLite/1200 with XMEGA (CW303/CW308-XMEGA/CWLite target)
