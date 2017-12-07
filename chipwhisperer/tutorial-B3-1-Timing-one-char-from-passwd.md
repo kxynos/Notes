@@ -67,6 +67,11 @@ I had issues with the start point of 203 points that I identified in the first s
 
 In the end, I observed a successful trace and worked backwards from there as well. Hence why my startPoint now is set to 344 points with a step of 36.  
 
+![Graph](https://github.com/kxynos/Notes/raw/master/chipwhisperer/passwd-check-graph.png)
+
+_Figure.1 Example traces that I found worked for my setup_
+
+
 ```
 """Setup script for CWLite/1200 with XMEGA (CW303/CW308-XMEGA/CWLite target)
 
