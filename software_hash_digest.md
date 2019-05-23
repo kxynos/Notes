@@ -1,5 +1,5 @@
 # Software Hash Digest list 
-
+\* Hashes provided as is and without any guarentee. 
 
 #### Xperia_Flash_Tool_Setup_18w47.exe
 * 1127e2c254e52cf28d38f5a2051d8500 (md5)
